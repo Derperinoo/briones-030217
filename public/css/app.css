@@ -1,3 +1,10 @@
-body{
-	background-color: #eee;
+.first{
+		color: #ff80ab;
+	}
+.second{
+		color: #43a047;
+	}
+.result{
+	color: #fb8c00;
+	font-size: 30px;
 }
